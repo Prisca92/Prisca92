@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything Python, SQL, Tableau, Machine Learning, and more
 -  💞️ I’m looking to collaborate on projects.
 - 😄 Pronouns: She/Her
-- 📫 How to reach me: Gossinprisca@mgmail.com
+- 📫 How to reach me: Gossinprisca@gmail.com
 
 
 <!---
